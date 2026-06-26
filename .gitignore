@@ -1,0 +1,41 @@
+# Private Instagram captures and generated reports
+input/
+output/
+*.html
+*_files/
+instahomepage_files/
+followers.txt
+following.txt
+not_following_back.txt
+
+# Python runtime artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local environments and secrets
+.venv/
+venv/
+env/
+.env
+.env.*
+*.pem
+*.key
+*.crt
+
+# macOS and editor clutter
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+tmp/
+temp/
