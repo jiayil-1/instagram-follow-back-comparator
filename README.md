@@ -7,10 +7,10 @@ This is a small local Python workflow for comparing Instagram followers and foll
 1. In Google Chrome, open Instagram and go to your profile.
 2. Open the `Followers` modal.
 3. Scroll inside the modal until the full list is loaded.
-4. Save the page as `input/followers.html` using `Ctrl+S`.
+4. Save the page as `input/followers.html` using `Ctrl/Cmd+S`.
 5. Open the `Following` modal.
 6. Scroll inside the modal until the full list is loaded.
-7. Save the page as `input/following.html` using `Ctrl+S`.
+7. Save the page as `input/following.html` using `Ctrl/Cmd+S`.
 
 Chrome's `Webpage, Complete` and `HTML Only` save options are both fine. The script only reads the `.html` file.
 
